@@ -1,0 +1,185 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<texte>
+	<text1 id="1">
+		<wort name="Lie|ber">Lie|ber
+			<silbe name="Lie">Lie
+				<vokal name="ie">ie</vokal>
+			</silbe>
+			<silbe name="ber">ber
+				<vokal name="e">e</vokal>
+			</silbe>
+		</wort>
+		<wort name="Ni|ko|laus,">Ni|ko|laus
+			<silbe name="Ni">Ni
+				<vokal name="i">i</vokal>
+			</silbe>
+			<silbe name="ko|">ko
+				<vokal name="o">o</vokal>
+			</silbe>
+			<silbe name="laus,">laus,
+				<vokal name="au">au</vokal>
+			</silbe>
+		</wort>
+		<wort name="ich">ich
+			<silbe name="ich">ich
+				<vokal name="i">i</vokal>
+			</silbe>
+		</wort>
+		<wort name="ha|be">ha|be
+			<silbe name="ha">ha
+				<vokal name="a">a</vokal>
+			</silbe>
+			<silbe name="be">be
+				<vokal name="e">e</vokal>
+			</silbe>
+		</wort>
+		<wort name="ei|ne">ei|ne
+			<silbe name="ei">ei
+				<vokal name="ei">ei</vokal>
+			</silbe>
+			<silbe name="ne">ne
+				<vokal name="e">e</vokal>
+			</silbe>
+		</wort>
+		<wort name="Fra|ge:">Fra|ge:
+			<silbe name="Fra">Fra
+				<vokal name="a">a</vokal>
+			</silbe>
+			<silbe name="ge:">ge:
+				<vokal name="e">e</vokal>
+			</silbe>
+        </wort>
+        <wort name="'Was">'Was
+        	<silbe name="'Was">'Was
+        		<vokal name="a">a</vokal>
+        	</silbe>
+        </wort>
+        <wort name="machst">machst
+        	<silbe name="machst">machst
+        		<vokal name="a">a</vokal>
+        	</silbe>
+        </wort>
+        <wort name="du">du
+        	<silbe name="du">du
+        		<vokal name="u">u</vokal>
+        	</silbe>
+        </wort>
+        <wort name="denn">denn
+        	<silbe name="denn">denn
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="den">den
+        	<silbe name="den">den
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="gan|zen">gan|zen
+        	<silbe name="gan">gan
+        		<vokal name="a">a</vokal>
+        	</silbe>
+        	<silbe name="zen">zen
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="lan|gen">lan|gen
+        	<silbe name="lan"> lan
+        		<vokal name="a">a</vokal>
+        	</silbe>
+        	<silbe name="gen">gen
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="Som|mer?'">Som|mer?'
+        	<silbe name="Som">Som
+        		<vokal name="o">o</vokal>
+        	</silbe>
+        	<silbe name="mer?'">mer?'
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="'Ich">'Ich'
+        	<silbe name="'Ich">Ich
+        		<vokal name="i">I</vokal>
+        	</silbe>
+        </wort>
+        <wort name="ge|he,">ge|he,
+        	<silbe name="ge">ge
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        	<silbe name="he,">he,
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="ge|nau">genau
+        	<silbe name="ge">ge
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        	<silbe name="nau">nau
+        		<vokal name="au">au</vokal>
+        	</silbe>
+        </wort>
+        <wort name="wie">wie
+        	<silbe name="wie">
+        		<vokal name="ie">ie</vokal>
+        	</silbe>
+        </wort>
+        <wort name="du,">du,
+        	<silbe name="du,">du,
+        		<vokal name="u">u</vokal>
+        	</silbe>
+        </wort>
+        <wort name="ger|ne">ger|ne
+        	<silbe name="ger">ger
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        	<silbe name="ne">ne
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="ba|den,">ba|den,
+        	<silbe name="ba">ba
+        		<vokal name="a">a</vokal>
+        	</silbe>
+        	<silbe name="den,">den,
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="es|se">es|se
+        	<silbe name="es">es
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        	<silbe name="se">se
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="Eis">Eis
+        	<silbe name="Eis">Eis
+        		<vokal name="Ei">Ei</vokal>
+        	</silbe>
+        </wort>
+        <wort name="und">und
+        	<silbe name="und">und
+        		<vokal name="u">u</vokal>
+        	</silbe>
+        </wort>
+        <wort name="ge|he">ge|he
+        	<silbe name="ge">ge
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        	<silbe name="he,">he,
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+        <wort name="ra|deln.">ra|deln.
+        	<silbe name="ra">ra
+        		<vokal name="a">a</vokal>
+        	</silbe>
+        	<silbe name="deln.">deln.
+        		<vokal name="e">e</vokal>
+        	</silbe>
+        </wort>
+
+	</text1>
+</texte>
